@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Adi19471/react-props-passdata.git/static/css/main.eb899dc8.css",
+    "main.js": "/Adi19471/react-props-passdata.git/static/js/main.674979e6.js",
+    "static/js/787.d5e02dd6.chunk.js": "/Adi19471/react-props-passdata.git/static/js/787.d5e02dd6.chunk.js",
+    "index.html": "/Adi19471/react-props-passdata.git/index.html",
+    "main.eb899dc8.css.map": "/Adi19471/react-props-passdata.git/static/css/main.eb899dc8.css.map",
+    "main.674979e6.js.map": "/Adi19471/react-props-passdata.git/static/js/main.674979e6.js.map",
+    "787.d5e02dd6.chunk.js.map": "/Adi19471/react-props-passdata.git/static/js/787.d5e02dd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb899dc8.css",
+    "static/js/main.674979e6.js"
+  ]
+}
