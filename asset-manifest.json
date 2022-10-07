@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-props-passdata.git/static/css/main.eb899dc8.css",
-    "main.js": "/react-props-passdata.git/static/js/main.1cbc3b6c.js",
-    "static/js/787.d5e02dd6.chunk.js": "/react-props-passdata.git/static/js/787.d5e02dd6.chunk.js",
-    "index.html": "/react-props-passdata.git/index.html",
-    "main.eb899dc8.css.map": "/react-props-passdata.git/static/css/main.eb899dc8.css.map",
-    "main.1cbc3b6c.js.map": "/react-props-passdata.git/static/js/main.1cbc3b6c.js.map",
-    "787.d5e02dd6.chunk.js.map": "/react-props-passdata.git/static/js/787.d5e02dd6.chunk.js.map"
+    "main.css": "/react-props-passdata/static/css/main.eb899dc8.css",
+    "main.js": "/react-props-passdata/static/js/main.9c297ed7.js",
+    "static/js/787.d5e02dd6.chunk.js": "/react-props-passdata/static/js/787.d5e02dd6.chunk.js",
+    "index.html": "/react-props-passdata/index.html",
+    "main.eb899dc8.css.map": "/react-props-passdata/static/css/main.eb899dc8.css.map",
+    "main.9c297ed7.js.map": "/react-props-passdata/static/js/main.9c297ed7.js.map",
+    "787.d5e02dd6.chunk.js.map": "/react-props-passdata/static/js/787.d5e02dd6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb899dc8.css",
-    "static/js/main.1cbc3b6c.js"
+    "static/js/main.9c297ed7.js"
   ]
 }
